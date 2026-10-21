@@ -6,3 +6,4 @@ Prints "Hello, World" followed by a new line to standard output.
 .
 - **2-hellofile**: Displays the contents of the `/etc/passwd` file.
 - **3-twofiles**: Displays the contents of `/etc/passwd` and `/etc/hosts`.
+- **4-lastlines**: Displays the last 10 lines of `/etc/passwd`.
