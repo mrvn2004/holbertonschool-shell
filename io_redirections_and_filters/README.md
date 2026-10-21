@@ -13,3 +13,4 @@ Prints "Hello, World" followed by a new line to standard output.
 8-cwd_state: Writes the output of ls -la to ls_cwd_content, overwriting the file if it already exists.
 9-duplicate_last_line: Duplicates the last line of iacta and appends it to the file.
 10-no_more_js: Deletes all regular .js files in the current directory and its subdirectories.
+11-directories: Counts all directories and subdirectories, including hidden ones, excluding the current and parent directories.
