@@ -23,3 +23,4 @@ Prints "Hello, World" followed by a new line to standard output.
 19-AZ: Replaces all occurrences of A with Z and c with e in standard input.
 20-hiago: Removes all occurrences of the characters c and C from standard input.
 21-reverse: Reverses each line of standard input.
+22-users_and_homes: Displays usernames and home directories from /etc/passwd, sorted by username.
