@@ -11,3 +11,4 @@ Prints "Hello, World" followed by a new line to standard output.
 - **6-third_line**: Displays the third line of the file `iacta`.
 - **7-file**: Creates a file with a special name containing `Best School` followed by a new line.
 8-cwd_state: Writes the output of ls -la to ls_cwd_content, overwriting the file if it already exists.
+9-duplicate_last_line: Duplicates the last line of iacta and appends it to the file.
