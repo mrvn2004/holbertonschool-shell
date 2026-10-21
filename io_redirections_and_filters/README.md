@@ -17,3 +17,4 @@ Prints "Hello, World" followed by a new line to standard output.
 12-newest_files: Displays the 10 newest entries in the current directory, sorted from newest to oldest.
 13-unique: Displays words that appear exactly once, sorted alphabetically.
 14-findthatword: Displays lines containing the pattern root from /etc/passwd.
+15-countthatword: Counts the lines containing the pattern bin in /etc/passwd.
