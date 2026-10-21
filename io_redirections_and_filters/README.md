@@ -9,3 +9,4 @@ Prints "Hello, World" followed by a new line to standard output.
 - **4-lastlines**: Displays the last 10 lines of `/etc/passwd`.
 - **5-firstlines**: Displays the first 10 lines of `/etc/passwd`.
 - **6-third_line**: Displays the third line of the file `iacta`.
+- **7-file**: Creates a file with a special name containing `Best School` followed by a new line.
