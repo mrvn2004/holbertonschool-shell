@@ -13,3 +13,8 @@ This project introduces shell initialization files, variables, expansions, shell
 Creates an alias named `ls` that executes `rm -f *`.
 
 The alias demonstrates how to define a custom command shortcut in Bash.
+### 1. Hello you
+
+**File:** `1-hello_you`
+
+Prints `hello` followed by the current Linux user's name using the `USER` environment variable.
