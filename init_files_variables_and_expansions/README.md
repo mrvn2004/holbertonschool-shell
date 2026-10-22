@@ -43,3 +43,8 @@ Displays all shell variables, environment variables, and Bash functions using th
 **File:** `6-create_local_variable`
 
 Creates a local variable named `BEST` and assigns it the value `School`.
+### 7. Global variable
+
+**File:** `7-create_global_variable`
+
+Creates and exports a global environment variable named `BEST` with the value `School` using the `export` command.
