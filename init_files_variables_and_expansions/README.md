@@ -53,3 +53,8 @@ Creates and exports a global environment variable named `BEST` with the value `S
 **File:** `8-true_knowledge`
 
 Prints the result of adding 128 to the value stored in the `TRUEKNOWLEDGE` environment variable using Bash arithmetic expansion.
+### 9. Divide and rule
+
+**File:** `9-divide_and_rule`
+
+Prints the integer division of the `POWER` environment variable by the `DIVIDE` environment variable using Bash arithmetic expansion.
