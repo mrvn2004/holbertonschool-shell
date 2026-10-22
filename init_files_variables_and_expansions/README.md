@@ -63,3 +63,8 @@ Prints the integer division of the `POWER` environment variable by the `DIVIDE` 
 **File:** `10-love_exponent_breath`
 
 Calculates the value of the `BREATH` environment variable raised to the power of the `LOVE` environment variable using Bash arithmetic expansion.
+### 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+
+**File:** `11-binary_to_decimal`
+
+Converts the binary number stored in the `BINARY` environment variable to its decimal representation using Bash arithmetic expansion.
