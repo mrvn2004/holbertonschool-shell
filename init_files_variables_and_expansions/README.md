@@ -48,3 +48,8 @@ Creates a local variable named `BEST` and assigns it the value `School`.
 **File:** `7-create_global_variable`
 
 Creates and exports a global environment variable named `BEST` with the value `School` using the `export` command.
+### 8. Every addition to true knowledge is an addition to human power
+
+**File:** `8-true_knowledge`
+
+Prints the result of adding 128 to the value stored in the `TRUEKNOWLEDGE` environment variable using Bash arithmetic expansion.
