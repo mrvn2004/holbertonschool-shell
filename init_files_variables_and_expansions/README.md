@@ -73,3 +73,8 @@ Converts the binary number stored in the `BINARY` environment variable to its de
 **File:** `12-combinations`
 
 Prints all alphabetically ordered combinations of two lowercase letters, from `aa` to `zz`, excluding `oo`. Uses brace expansion, `tr`, and `grep` to generate and filter the output.
+### 13. Print float
+
+**File:** `13-print_float`
+
+Prints the number stored in the `NUM` environment variable with exactly two decimal places using `printf`.
