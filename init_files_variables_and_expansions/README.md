@@ -58,3 +58,8 @@ Prints the result of adding 128 to the value stored in the `TRUEKNOWLEDGE` envir
 **File:** `9-divide_and_rule`
 
 Prints the integer division of the `POWER` environment variable by the `DIVIDE` environment variable using Bash arithmetic expansion.
+### 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+
+**File:** `10-love_exponent_breath`
+
+Calculates the value of the `BREATH` environment variable raised to the power of the `LOVE` environment variable using Bash arithmetic expansion.
