@@ -33,3 +33,8 @@ Counts the number of non-empty directories listed in the `PATH` environment vari
 **File:** `4-global_variables`
 
 Displays all environment variables using the `printenv` command.
+### 5. Local variables
+
+**File:** `5-local_variables`
+
+Displays all shell variables, environment variables, and Bash functions using the `set` command.
