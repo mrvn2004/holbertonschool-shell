@@ -23,3 +23,8 @@ Prints `hello` followed by the current Linux user's name using the `USER` enviro
 **File:** `2-path`
 
 Adds `/action` to the end of the `PATH` environment variable so the shell searches this directory last when looking for a command.
+### 3. If the path be beautiful, let us not ask where it leads
+
+**File:** `3-paths`
+
+Counts the number of non-empty directories listed in the `PATH` environment variable using `tr` and `grep`.
