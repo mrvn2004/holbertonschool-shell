@@ -38,3 +38,8 @@ Displays all environment variables using the `printenv` command.
 **File:** `5-local_variables`
 
 Displays all shell variables, environment variables, and Bash functions using the `set` command.
+### 6. Local variable
+
+**File:** `6-create_local_variable`
+
+Creates a local variable named `BEST` and assigns it the value `School`.
