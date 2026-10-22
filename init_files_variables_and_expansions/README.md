@@ -28,3 +28,8 @@ Adds `/action` to the end of the `PATH` environment variable so the shell search
 **File:** `3-paths`
 
 Counts the number of non-empty directories listed in the `PATH` environment variable using `tr` and `grep`.
+### 4. Global variables
+
+**File:** `4-global_variables`
+
+Displays all environment variables using the `printenv` command.
