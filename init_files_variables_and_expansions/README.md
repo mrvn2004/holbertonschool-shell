@@ -68,3 +68,8 @@ Calculates the value of the `BREATH` environment variable raised to the power of
 **File:** `11-binary_to_decimal`
 
 Converts the binary number stored in the `BINARY` environment variable to its decimal representation using Bash arithmetic expansion.
+### 12. Combination
+
+**File:** `12-combinations`
+
+Prints all alphabetically ordered combinations of two lowercase letters, from `aa` to `zz`, excluding `oo`. Uses brace expansion, `tr`, and `grep` to generate and filter the output.
