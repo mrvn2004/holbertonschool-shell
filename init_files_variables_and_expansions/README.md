@@ -78,3 +78,8 @@ Prints all alphabetically ordered combinations of two lowercase letters, from `a
 **File:** `13-print_float`
 
 Prints the number stored in the `NUM` environment variable with exactly two decimal places using `printf`.
+### 14. Decimal to Hexadecimal
+
+**File:** `14-decimal_to_hexadecimal`
+
+Converts the decimal number stored in the `DECIMAL` environment variable to lowercase hexadecimal using `printf`.
