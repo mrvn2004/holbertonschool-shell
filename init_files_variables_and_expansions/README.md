@@ -18,3 +18,8 @@ The alias demonstrates how to define a custom command shortcut in Bash.
 **File:** `1-hello_you`
 
 Prints `hello` followed by the current Linux user's name using the `USER` environment variable.
+### 2. The path to success is to take massive, determined action
+
+**File:** `2-path`
+
+Adds `/action` to the end of the `PATH` environment variable so the shell searches this directory last when looking for a command.
